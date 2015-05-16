@@ -1,2 +1,2 @@
 # lxbyes.github.io
-http://leckie.me
+http://www.leckie.me
